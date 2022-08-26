@@ -27,16 +27,17 @@
 
 
 </div>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-sadegh-moraveji)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
   About Me :
 
     - 🔭 I’m currently working on django and web pages and database tools
 
     - 📫 How to reach me: ms.moraveji2007@gmail.com
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-sadegh-moraveji)](https://github.com/anuraghazra/github-readme-stats)
+
+
     
 
 
