@@ -1,38 +1,37 @@
-### Hi there 👋
-### Welcome to my GitHub page 🙌
+### <p align='center'>Hi there 👋</p>
+### <p align= 'center'>Im Mohammad Sadegh Moraveji🙌</p>
 
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" align="right"/>
----
-<br>
----
-<br>
----
-<br>
----
-<br>
----
-<br>
----
+                                                                    ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+                                                                    ---
+
+                                                                    ---
+
+                                                                    ---
+
+                                                                    ---
+
+                                                                    ---
+
+### <p align='center'>:hammer_and_wrench: Languages and Tools :</p>
+<div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"  title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
 
 
 </div>
 <br>
-  About Me :
+  <p align ='center'>About Me :</p>
 
-    - 🔭 I’m currently working on django and web pages and database tools
+                                                - 🔭 I’m currently working on django and web pages and database tools
 
-    - 📫 How to reach me: ms.moraveji2007@gmail.com
+                                                - 📫 How to reach me: ms.moraveji2007@gmail.com
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-sadegh-moraveji)](https://github.com/anuraghazra/github-readme-stats)
