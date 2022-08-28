@@ -1,18 +1,16 @@
 ### <p align='center'>Hi there 👋</p>
 ### <p align= 'center'>Im Mohammad Sadegh Moraveji🙌</p>
 
+<p align ='center'>  --- </p>
 
-                                                                    ---
 
-                                                                    ---
+<p align ='center'>  --- </p>
 
-                                                                    ---
+<p align ='center'>  --- </p>
 
-                                                                    ---
+<p align ='center'>  --- </p>
 
-                                                                    ---
-
-                                                                    ---
+<p align ='center'>  --- </p>
 
 ### <p align='center'>:hammer_and_wrench: Languages and Tools :</p>
 <div align='center'>
@@ -26,12 +24,16 @@
 
 
 </div>
-<br>
+
+---
+
   <p align ='center'>About Me :</p>
 
-                                                - 🔭 I’m currently working on django and web pages and database tools
+<ul align='center'> - 🔭 I’m currently working on django and web pages and database tools</ul>
 
-                                                - 📫 How to reach me: ms.moraveji2007@gmail.com
+<ul align='center'>- 📫 How to reach me: ms.moraveji2007@gmail.com</ul>
+
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-sadegh-moraveji)](https://github.com/anuraghazra/github-readme-stats)
