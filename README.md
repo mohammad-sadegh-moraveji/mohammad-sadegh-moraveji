@@ -1,7 +1,6 @@
-### <p align='left'>Hi there 👋</p>
+### <p align='left'>Hi there </p>
 
 <p align ='center'>  --- </p>
-
 
 
 
@@ -10,7 +9,7 @@
 <ul align='left'> - 🔭 I’m currently working on django and web pages and database tools</ul>
 
 <ul align='left'>- 📫 How to reach me: ms.moraveji2007@gmail.com</ul>
-
+ <p>Have Nice day</p>
 
 
 
