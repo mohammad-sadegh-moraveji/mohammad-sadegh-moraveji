@@ -3,11 +3,11 @@
 
 
 
-  <p align ='left'>About Me :</p>
+  <h2 align ='left'>About Me :</h2>
 
-<ul align='left'> - 🔭 I’m currently working on django and web pages and database tools</ul>
+<p align='left'> - 🔭 I’m currently working on django and web pages and database tools</p>
 
-<ul align='left'>- 📫 How to reach me: ms.moraveji2007@gmail.com</ul>
+<p align='left'>- 📫 How to reach me: ms.moraveji2007@gmail.com</p>
 
  <p>Have Nice day</p>
 
